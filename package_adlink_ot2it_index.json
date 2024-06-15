@@ -448,7 +448,7 @@
                   "architecture": "samd",
                   "version": "1.7.15",
                   "category": "Adlink",
-                  "url": "https://github.com/kkraman02/OT2IT/raw/main/adlink.tar.xz",
+                  "url": "https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/OT2IT/adlink.tar.xz",
                   "archiveFileName": "adlink.tar.xz",
                   "checksum": "SHA-256:dc660c44f75513fc28d51f2732bcd7ebb33f4805a724c81bf8ff2784439a3da5",
                   "size": "138542520",
