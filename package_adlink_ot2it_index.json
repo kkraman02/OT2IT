@@ -448,10 +448,10 @@
                   "architecture": "samd",
                   "version": "1.7.15",
                   "category": "Adlink",
-                  "url": "https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/OT2IT/adlink.tar.xz",
-                  "archiveFileName": "adlink.tar.xz",
-                  "checksum": "SHA-256:dc660c44f75513fc28d51f2732bcd7ebb33f4805a724c81bf8ff2784439a3da5",
-                  "size": "138542520",
+                  "url": "https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/OT2IT/adlink.zip",
+                  "archiveFileName": "adlink.zip",
+                  "checksum": "SHA-256:371b850e162ea1ee43c54ae69eb15a260a492d3e5675988f381f25c3d079d351",
+                  "size": "332599491",
                   "help": {
                       "online": "https://www.ipi.wiki/"
                   },
