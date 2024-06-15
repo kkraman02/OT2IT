@@ -448,10 +448,10 @@
                   "architecture": "samd",
                   "version": "1.7.15",
                   "category": "Adlink",
-                  "url": "https://github.com/kkraman02/OT2IT/raw/main/adlink-samd-1.0.0.zip",
-                  "archiveFileName": "adlink-samd-1.0.0.zip",
-                  "checksum": "SHA-256:ab3a7d1c3ac48dbb6cfcb37797cc1a087c7039501208b8cdc70c8abb5b978c43",
-                  "size": "10225845",
+                  "url": "https://github.com/kkraman02/OT2IT/raw/main/adlink.tar.xz",
+                  "archiveFileName": "adlink.tar.xz",
+                  "checksum": "SHA-256:dc660c44f75513fc28d51f2732bcd7ebb33f4805a724c81bf8ff2784439a3da5",
+                  "size": "138542520",
                   "help": {
                       "online": "https://www.ipi.wiki/"
                   },
